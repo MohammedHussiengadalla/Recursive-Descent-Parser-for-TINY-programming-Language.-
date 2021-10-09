@@ -1,0 +1,15 @@
+int main()
+{
+float z # 10.5.2;
+if  z1 <> .35 then 
+    write "the val of z1 + 1.5*factorial(5) is =;
+elseif z1 == 35 then
+    z1 := 0.0";
+end
+/* this not supposed to be error
+return 0;
+}
+*/
+write "#Love_Compiler;
+return 0;
+}

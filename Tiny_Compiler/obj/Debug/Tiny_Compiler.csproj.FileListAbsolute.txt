@@ -1,0 +1,12 @@
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\bin\Debug\Tiny_Compiler.exe.config
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\bin\Debug\Tiny_Compiler.exe
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\bin\Debug\Tiny_Compiler.pdb
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\bin\Debug\Guna.UI2.dll
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.Form1.resources
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.csproj.CopyComplete
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.exe
+C:\Users\ahmed\source\repos\Tiny_Compiler\Tiny_Compiler\obj\Debug\Tiny_Compiler.pdb
